@@ -1,1 +1,1 @@
-<img src="https://discord.c99.nl/widget/theme-4/399862294143696897.png">
+[![Discord Presence](https://lanyard.cnrad.dev/api/399862294143696897)](https://discord.com/users/399862294143696897)
