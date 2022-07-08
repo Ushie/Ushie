@@ -2,4 +2,4 @@
 
 ## 📋 Profile
 
-Hey! I'm Ushie, I'm a 16yo who likes tinkering with random stuff, currently I don't make things, but I'm hoping to change that soon :)
+Hey! I'm Ushie, a 16yo who likes tinkering with random stuff, currently I don't make things, but I'm hoping to change that soon :)
